@@ -33,3 +33,12 @@ qm = Flowrate
 Y = Expansion factor
 
 
+The hardware scheme like this:
+
+![image](https://user-images.githubusercontent.com/92786679/141996489-b7ca022d-cf83-4bc5-9b2b-2b51a533255b.png)
+
+The labview scheme like this:
+
+![image](https://user-images.githubusercontent.com/92786679/141996549-29370ef0-3003-4ef8-bd32-22a1e46983e8.png)
+![image](https://user-images.githubusercontent.com/92786679/141996567-80424490-d7af-42ce-9995-803e43b928b3.png)
+
